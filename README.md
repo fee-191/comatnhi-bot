@@ -1,25 +1,4 @@
-<!doctype html>
-<html lang="vi">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chính sách bảo mật · Privacy Policy — Cơ Mật Nhi</title>
-<style>
-  :root { color-scheme: dark; }
-  body { margin: 0; background: #0b0f1a; color: #dfe4f0; font: 15px/1.7 -apple-system, "Segoe UI", Roboto, sans-serif; }
-  main { max-width: 760px; margin: 0 auto; padding: 48px 22px 80px; }
-  h1 { font-size: 25px; margin: 0 0 4px; }
-  h2 { font-size: 17px; margin: 30px 0 8px; color: #7fe3d6; }
-  .en { color: #8b95ad; font-size: 13.5px; font-style: italic; margin: 2px 0 0; }
-  .updated { color: #8b95ad; font-size: 13px; margin: 8px 0 26px; }
-  a { color: #7fb0ff; }
-  code { background: #161c2c; padding: 1px 6px; border-radius: 5px; font-size: 13px; }
-  ul { padding-left: 20px; } li { margin: 5px 0; }
-  hr { border: none; border-top: 1px solid #1e2740; margin: 30px 0; }
-</style>
-</head>
-<body>
-<main>
+
   <h1>Chính sách bảo mật · Privacy Policy</h1>
   <p class="en">Discord bot: <strong>Cơ Mật Nhi</strong></p>
   <p class="updated">Cập nhật: 25/08/2026 · Người vận hành: Fee · Liên hệ: phildhe160155@gmail.com</p>
